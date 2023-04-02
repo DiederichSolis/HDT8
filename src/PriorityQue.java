@@ -1,4 +1,4 @@
-public interface PriorityQue <E extends Comparable <E>>{
+public interface PriorityQue <E extends Asimiliar <E>>{
     void limpiar();
     E peek();
     E remove();
